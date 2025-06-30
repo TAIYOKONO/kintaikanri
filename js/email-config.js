@@ -4,7 +4,7 @@
  * 管理者登録依頼のメール通知機能設定
  */
 
-// EmailJS設定値
+// EmailJS設定値// EmailJS設定値
 const EMAIL_CONFIG = {
     // EmailJSの公開キー（環境変数から取得推奨）
     PUBLIC_KEY: 'MKAevwRJGDmMihv62',
@@ -16,7 +16,7 @@ const EMAIL_CONFIG = {
     TEMPLATE_ID: 'template_xth8wr7',
     
     // 通知先メールアドレス
-    NOTIFICATION_EMAIL: 'dxconsulting.branu2@gmail.com'
+    NOTIFICATION_EMAIL: 't.kono@branu.jp'
 };
 
 /**
